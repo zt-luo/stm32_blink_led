@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$main_8c.html#a59ae3966a97431553c8ed0411bdd7937" title="Initializes system." alt="" coords="113,5,207,32"/>
+<area shape="rect" id="node7" href="$main_8c.html#a6e9477b2415b1e0580ebfc034af21105" title="Starts the PLL." alt="" coords="123,56,197,83"/>
+<area shape="rect" id="node11" href="$gpio_8c.html#ac32b199e6e0f1537f2fe483251a2668f" title="Configures pin." alt="" coords="109,107,211,133"/>
+<area shape="rect" id="node5" href="$gpio_8c.html#afdbe206b3c49f019757ab09b3cf52b9c" title="GPIO initialization." alt="" coords="275,5,349,32"/>
+<area shape="rect" id="node9" href="$main_8c.html#a754cfe5d14ab18f45e249298d7e461f3" title="Configures Flash latency." alt="" coords="259,56,365,83"/>
+</map>

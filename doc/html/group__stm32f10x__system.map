@@ -1,0 +1,8 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group___s_t_m32_f10x___system___exported__types.html" title="STM32F10x_System_Exported_types" alt="" coords="327,5,585,32"/>
+<area shape="rect" id="node2" href="$group___s_t_m32_f10x___system___exported___macros.html" title="STM32F10x_System_Exported_Macros" alt="" coords="322,56,590,83"/>
+<area shape="rect" id="node3" href="$group___s_t_m32_f10x___system___exported___constants.html" title="STM32F10x_System_Exported_Constants" alt="" coords="313,107,599,133"/>
+<area shape="rect" id="node4" href="$group___c_m_s_i_s.html" title="CMSIS" alt="" coords="6,107,69,133"/>
+<area shape="rect" id="node5" href="$group___s_t_m32_f10x___system___includes.html" title="Define to prevent recursive inclusion." alt="" coords="351,157,561,184"/>
+<area shape="rect" id="node7" href="$group___s_t_m32_f10x___system___exported___functions.html" title="STM32F10x_System_Exported_Functions" alt="" coords="315,208,597,235"/>
+</map>

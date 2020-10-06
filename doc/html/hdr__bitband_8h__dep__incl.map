@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$config_8h.html" title="Basic configuration of the project." alt="" coords="5,80,304,107"/>
+<area shape="rect" id="node7" href="$hdr__rcc_8h.html" title="Header with definition of bits in RCC control registers." alt="" coords="328,80,661,107"/>
+<area shape="rect" id="node5" href="$main_8c.html" title="Sample STM32 project." alt="" coords="178,155,469,181"/>
+</map>

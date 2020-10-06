@@ -1,0 +1,11 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group___peripheral__memory__map.html" title="Peripheral_memory_map" alt="" coords="283,5,466,32"/>
+<area shape="rect" id="node2" href="$group___exported__constants.html" title="Exported_constants" alt="" coords="300,56,449,83"/>
+<area shape="rect" id="node3" href="$group___library__configuration__section.html" title="Library_configuration_section" alt="" coords="271,107,479,133"/>
+<area shape="rect" id="node4" href="$group___exported__types.html" title="Exported_types" alt="" coords="314,157,435,184"/>
+<area shape="rect" id="node5" href="$group___exported__macro.html" title="Exported_macro" alt="" coords="311,208,438,235"/>
+<area shape="rect" id="node8" href="$group___peripheral__registers__structures.html" title="Peripheral_registers_structures" alt="" coords="264,259,485,285"/>
+<area shape="rect" id="node9" href="$group___configuration__section__for___c_m_s_i_s.html" title="Configuration_section_for_CMSIS" alt="" coords="259,309,491,336"/>
+<area shape="rect" id="node10" href="$group___peripheral__declaration.html" title="Peripheral_declaration" alt="" coords="293,360,457,387"/>
+<area shape="rect" id="node7" href="$group___c_m_s_i_s.html" title="CMSIS" alt="" coords="6,183,69,209"/>
+</map>
